@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libraryMVPcors", "libraryMVPcors\libraryMVPcors.csproj", "{4EBF065B-A05D-4096-90BF-BB2DBD7CF62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EBF065B-A05D-4096-90BF-BB2DBD7CF62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBF065B-A05D-4096-90BF-BB2DBD7CF62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBF065B-A05D-4096-90BF-BB2DBD7CF62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBF065B-A05D-4096-90BF-BB2DBD7CF62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F69B36-2296-47D6-A618-6C587D449392}
+	EndGlobalSection
+EndGlobal
